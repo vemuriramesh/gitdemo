@@ -2,6 +2,7 @@ added first line1
 test file
 new folder added
 repeating the same use case - changed by u1
+repeating the same use case - changed by u2
 added new branch
 added last line -- u2
 added new branch f1
