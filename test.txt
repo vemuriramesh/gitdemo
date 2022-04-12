@@ -8,3 +8,6 @@ added last line -- u2
 added new branch f1
 added new branch f2
 added new last line - u1
+commit1
+commit2
+commit3
